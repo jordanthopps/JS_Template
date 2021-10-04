@@ -38,3 +38,25 @@ footer .social>a:hover {
     opacity: .9;
     color: var(--secondary-color);
 }
+
+.jsicon {
+    color: yellow;
+}
+
+/*Color correct this with the website*/
+.bsicon {
+    color: purple;
+}
+
+.html5icon {
+    color: orangered;
+}
+
+.css3icon {
+    color: blue;
+}
+
+.checklist>li i{
+    color: var(--secondary-color);
+
+}
