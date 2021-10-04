@@ -56,7 +56,14 @@ footer .social>a:hover {
     color: blue;
 }
 
-.checklist>li i{
+.checklist>li i {
     color: var(--secondary-color);
 
+}
+
+.sticky-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
